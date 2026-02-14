@@ -7,4 +7,4 @@ int main() {
     cft = gallons*gallon_to_cft;
     cout<<"CFT:"<<cft<<endl;
     return 0;
-}
+} 
